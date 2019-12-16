@@ -85,7 +85,7 @@
         "setting" : {
             "urlCheck" : false
         },
-        "usingComponents" : true,
+        "usingComponents" : false,
         "permission" : {
             "scope.userLocation" : {
                 "desc" : "演示定位能力"
